@@ -1,0 +1,10 @@
+intertial_station.ino
+
+lib/kalmanFilter/kalmanFilter.cpp
+lib/kalmanFilter/kalmanFilter.h
+
+lib/L3G4200D/L3G4200D.cpp
+lib/L3G4200D/L3G4200D.h
+
+lib/MMA_7455/MMA_7455.cpp
+lib/MMA_7455/MMA_7455.h
